@@ -1,0 +1,4 @@
+project-bar
+===========
+
+project foo
